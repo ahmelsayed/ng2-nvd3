@@ -14,5 +14,8 @@
   "exclude": [
     "node_modules",
     "examples"
+  ],
+  "files": [
+    "lib/ng2-nvd3.ts"
   ]
 }
